@@ -34,7 +34,7 @@ THEN the password is either displayed in an alert or written to the page
 
 ### Screenshot
 
-![Image](https://github.com/Tanvirpi/Password-Generator/screenshot.png)
+![Image](https://github.com/Tanvirpi/Password-Generator/blob/main/screenshot.png)
 
 
 ### References
